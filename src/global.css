@@ -5,5 +5,8 @@
 /* Custom global styles can go here */
 body {
   font-family: "Poppins", sans-serif;
-  background-color: white;
+}
+
+html {
+  scroll-padding-top: 80px; 
 }

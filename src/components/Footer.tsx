@@ -31,11 +31,10 @@ function Footer() {
             <Link to="/" className="hover:underline">Home</Link>
             <Link to="/about" className="hover:underline">About Us</Link>
             <Link to="/services" className="hover:underline">Services</Link>
-            <Link to="/teams" className="hover:underline">Teams</Link>
             <Link to="/blog" className="hover:underline">Blog</Link>
           </div>
 
-          <section className="footer-Logo mt-10 md:col-span-2 lg:col-span-1">
+          <section className="footer-Logo md:col-span-2 lg:col-span-1">
             <p className='text-justify text-md'>PT. Diamond Propertindo is an esteemed property company that upholds the principles of good corporate governance in its operations. With a strong commitment to corporate sustainability.</p>
             <div className='h-20 w-full flex items-center justify-center text-sm rounded gap-10'>
                 <a href="https://www.instagram.com/maulanajulham_/" className="ri-instagram-fill ri-2x md:ri-3x"></a>

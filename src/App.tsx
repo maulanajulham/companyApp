@@ -4,7 +4,6 @@ import About from "./pages/About";
 import Blog from "./pages/Blog";
 import Services from "./pages/Services";
 import Login from "./pages/Login";
-import Teams from "./pages/Teams";
 
 function App() {
 
@@ -15,7 +14,6 @@ function App() {
         <Route path="/About" element={<About />} />
         <Route path="/Services" element={<Services/>} />
         <Route path="/Blog" element={<Blog/>} />
-        <Route path="/Teams" element={<Teams/>} />
         <Route path="/Login" element={<Login/>} />
     </Routes>
   )

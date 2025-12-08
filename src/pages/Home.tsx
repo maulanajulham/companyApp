@@ -73,7 +73,7 @@ function Home() {
                             Sejak didirikan, kami telah berkembang dari startup kecil menjadi pemimpin industri yang diakui dalam menyediakan solusi hunian yang inovatif, berkelanjutan, dan berorientasi pada masa depan.
                         </p>
                         <Link to="/about" className="text-blue-600 font-semibold mt-4 inline-block hover:underline">
-                            Pelajari Lebih Lanjut Tentang Tim Kami &rarr;
+                            Pelajari Lebih Lanjut Tentang Perusahaan Kami &rarr;
                         </Link>
                     </div>
                    

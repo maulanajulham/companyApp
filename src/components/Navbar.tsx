@@ -20,7 +20,7 @@ import Logo from "@/assets/logo.png";
     }, []);
     
   return (
-        <header className={`bg-white h-20 flex justify-between items-center text-black
+        <header className={` max-w-7xl mx-auto px-4 bg-white h-20 flex justify-between items-center text-black
         text-xs w-full  fixed left-1/2 -translate-x-1/2 z-40
         ${active ? "top-0 opacity-100" : "-top-0"}
         `}>
@@ -38,7 +38,6 @@ import Logo from "@/assets/logo.png";
                 <Link to="/">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/services">Services</Link>
-                <Link to="/teams">Teams</Link>
                 <Link to="/blog">Blog</Link>
                 <Link to="/login">Login</Link>
             </nav>
